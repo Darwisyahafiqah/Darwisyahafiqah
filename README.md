@@ -1,4 +1,4 @@
-# Hi There👋:
+# Hi There👋
 
 I'm Iqa, a Computer Engineering student in her final year 
 
