@@ -1,4 +1,7 @@
-# 💫 About Me:
+# Hi There👋:
+
+I'm Iqa, a Computer Engineering student in her final year 
+
 🔭 I’m currently working on my final-year project which is an offline exam-proctoring robot<br>🤝 I’m looking for help with my projects<br>🌱 I’m currently learning ROS, AI, Machine Learning, deep learning, python, and robotics<br>⚡ Fun fact my past projects include a retro gaming console using Raspberry pi,  A bus scheduling system using ESP32 and a smart hydroponic garden using arduino and blynk 
 
 
